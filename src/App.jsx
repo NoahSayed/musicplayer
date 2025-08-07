@@ -131,10 +131,10 @@ export default function App() {
       </div>
 
       <a
-        href="https://github.com/aamirindi"
+        href=""
         target="_blank"
         className="font-['Cedarville_Cursive'] text-[#71829e] absolute bottom-1 right-1">
-        aamirindi
+     tanya
         <GitHubIcon style={{ fontSize: "20px" }} />
       </a>
     </div>
